@@ -1,0 +1,15 @@
+,surface,series,order_surfaces,isBasement,color,vertices,edges,id
+12,Fault7,Fault7_series,1,False,#527682,,,1
+4,Fault6,Fault6_series,1,False,#527682,,,2
+0,Fault2,Fault2_series,1,False,#527682,,,3
+3,Fault5,Fault5_series,1,False,#527682,,,4
+11,Fault1,Fault1_series,1,False,#527682,,,5
+1,Fault3,Fault3_series,1,False,#527682,,,6
+2,Fault4,Fault4_series,1,False,#527682,,,7
+10,Quaternary,Post_tectonic_series,1,False,#b2996e,,,8
+9,Tertiary,Post_tectonic_series,2,False,#56ae57,,,9
+8,Mesozoic,Post_tectonic_series,3,False,#acc2d9,,,10
+7,Upper-filling,Syn_tectonic_series,1,False,#5DA629,,,11
+6,Middle-filling,Syn_tectonic_series,2,False,#325916,,,12
+5,Lower-filling,Pre_tectonic_series,1,False,#ff3f20,,,13
+13,basement,Basement,1,True,#894585,,,14
