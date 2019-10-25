@@ -1,0 +1,13 @@
+,order_series,BottomRelation
+Fault7_series,1,Fault
+Fault6_series,2,Fault
+Fault2_series,3,Fault
+Fault5_series,4,Fault
+Fault1_series,5,Fault
+Fault3_series,6,Fault
+Fault4_series,7,Fault
+Post_tectonic_series,8,Erosion
+Syn_tectonic_series2,9,Erosion
+Syn_tectonic_series1,10,Erosion
+Pre_tectonic_series,11,Erosion
+Basement,12,Erosion

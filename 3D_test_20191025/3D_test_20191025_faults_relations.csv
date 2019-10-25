@@ -1,0 +1,13 @@
+,Fault7_series,Fault6_series,Fault2_series,Fault5_series,Fault1_series,Fault3_series,Fault4_series,Post_tectonic_series,Syn_tectonic_series2,Syn_tectonic_series1,Pre_tectonic_series,Basement
+Fault7_series,False,False,False,False,False,False,False,False,True,True,True,True
+Fault6_series,False,False,False,False,False,False,False,True,True,True,True,True
+Fault2_series,False,False,False,False,False,False,False,True,True,True,True,True
+Fault5_series,False,False,False,False,False,False,False,False,True,True,True,True
+Fault1_series,False,False,False,False,False,False,False,True,True,True,True,True
+Fault3_series,False,False,False,False,False,False,False,False,True,True,True,True
+Fault4_series,False,False,False,False,False,False,False,False,True,True,True,True
+Post_tectonic_series,False,False,False,False,False,False,False,False,False,False,False,False
+Syn_tectonic_series2,False,False,False,False,False,False,False,False,False,False,False,False
+Syn_tectonic_series1,False,False,False,False,False,False,False,False,False,False,False,False
+Pre_tectonic_series,False,False,False,False,False,False,False,False,False,False,False,False
+Basement,False,False,False,False,False,False,False,False,False,False,False,False
