@@ -1,0 +1,17 @@
+﻿X;Y;Z;formation
+200;430;850;fault1
+200;570;450;fault1
+200;850;450;fault2
+200;980;950;fault2
+200;600;700;shale
+200;820;750;shale
+200;1000;920;shale
+200;1200;850;shale
+200;400;830;shale
+200;200;770;shale
+200;600;500;sandstone
+200;820;530;sandstone
+200;1000;680;sandstone
+200;1200;650;sandstone
+200;400;650;sandstone
+200;200;600;sandstone
