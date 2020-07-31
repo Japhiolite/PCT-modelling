@@ -1,0 +1,15 @@
+% Shemat-Suite version: SHEMAT-Suite 9.0 (Freely)                                                       
+%          build: 2020-07-31 10:56:23 [UTC]               
+%   build command line: PROPS=bas USER=none COMPTYPE=                                                                                                                                                                                                                                   
+%        Project: "heat_conduction"
+%
+%    <iteration> <delta head> <delta temp> (<delta conc> ...)
+          1  0.10000000E-20  0.22742664E+03
+          2  0.10000000E-20  0.50598663E+02
+          3  0.10000000E-20  0.69302600E+01
+          4  0.10000000E-20  0.71216311E+00
+          5  0.10000000E-20  0.58992129E-01
+          6  0.10000000E-20  0.41720684E-02
+          7  0.10000000E-20  0.24765866E-03
+          8  0.10000000E-20  0.10387870E-04
+          9  0.10000000E-20  0.00000000E+00
