@@ -1,0 +1,10 @@
+% Shemat-Suite version: SHEMAT-Suite 9.0 (Freely)                                                       
+%          build: 2020-07-31 10:56:23 [UTC]               
+%   build command line: PROPS=bas USER=none COMPTYPE=                                                                                                                                                                                                                                   
+%        Project: "PCT_MC_1"
+%
+%    <iteration> <delta head> <delta temp> (<delta conc> ...)
+          1  0.10000000E-20  0.21377044E+03
+          2  0.10000000E-20  0.41177491E+02
+          3  0.10000000E-20  0.49476569E+01
+          4  0.10000000E-20  0.45003196E+00
