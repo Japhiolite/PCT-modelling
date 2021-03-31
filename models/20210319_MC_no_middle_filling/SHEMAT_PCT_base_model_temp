@@ -51,7 +51,11 @@ SHEMAT_PCT_base_model
 # delz
 60*125.0
 
-!# borehole logs, records=0
+# borehole logs, records=4
+32 15 borehole1
+79 23 borehole2
+54 35 borehole3
+50 45 borehole4
 
 !==========>>>>> NONLINEAR SOLVER
 # nlsolve
