@@ -30,9 +30,9 @@ SHEMAT_PCT_base_model
 48000000
 54000000
     
-# file output: hdf vtk
+# file output: hdf
 
-# active temp
+# active head
 
 # PROPS=bas
 
@@ -98,7 +98,7 @@ SHEMAT_PCT_base_model
 # temp bcd, simple=top, value=init
 
 # temp bcn, simple=base, error=ignore
-5000*0.08
+5000*0.072
 
 # head bcd, records=13652
 1, 1, 60, 7330.446, 0
