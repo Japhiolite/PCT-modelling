@@ -1,0 +1,5 @@
+﻿name;i;j;k_min;k_max;error;var_flag;flag
+borehole1;32;15;21;58;0.5;2;1
+borehole2;79;23;31;55;0.5;2;1
+borehole3;54;35;18;56;0.5;2;1
+borehole4;50;45;27;56;0.5;2;1
