@@ -1,0 +1,14 @@
+% Shemat-Suite version: SHEMAT-Suite 9.0 (Freely)                                                       
+%          build: 2020-07-31 10:56:23 [UTC]               
+%   build command line: PROPS=bas USER=none COMPTYPE=                                                                                                                                                                                                                                   
+%        Project: "PCT_MC_809dat_cor"
+%
+%    <iteration> <delta head> <delta temp> (<delta conc> ...)
+          1  0.10000000E-20 -0.19657337E+01
+          2  0.10000000E-20  0.88865733E-01
+          3  0.10000000E-20  0.98040362E-02
+          4  0.10000000E-20  0.86373952E-03
+          5  0.10000000E-20  0.86521096E-04
+          6  0.10000000E-20  0.56879012E-05
+          7  0.10000000E-20  0.20148840E-06
+          8  0.10000000E-20  0.00000000E+00
